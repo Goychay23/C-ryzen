@@ -1,6 +1,7 @@
 C-RYZEN(SOURCE-CODE)
 
 
-$ cd zphisher
-  $ bash zphisher.sh
+sudo make install pkg-source(binary)
+sudo grepinstall pkg(source-make)(binary)
+sudo source(binary)
   ```

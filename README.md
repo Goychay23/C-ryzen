@@ -1,3 +1,6 @@
 C-RYZEN(SOURCE-CODE)
 
-will be published soon...
+
+$ cd zphisher
+  $ bash zphisher.sh
+  ```
